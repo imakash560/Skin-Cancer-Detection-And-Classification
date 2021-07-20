@@ -1,6 +1,6 @@
-# Skin Lesions Classification with Deep Convolutional Neural Network
+# Skin Cancer Detection and Classification with Deep Convolutional Neural Network
 
-This is a 40-hour project for CIS 5526 Machine Learning. For full description and analysis please refer to Project_Report.pdf. 
+For full description and analysis please refer to Project_Report.pdf. 
 
 Future work in better training strategy and exploring other models such as Xception and creating a bigger ensemble can help the model performs better than this!
 
